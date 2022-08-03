@@ -1,3 +1,3 @@
-# blog design with DB, xampp myphpadmin
-
-## HTML, CSS, JS, PHP, MySQL 
+## blog design with DB, xampp myphpadmin
+### Languages:
+- HTML, CSS, JS, PHP, MySQL 
