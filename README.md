@@ -1,2 +1,3 @@
-# Blog-db
-Blog design with admin panel
+# blog design with DB, xampp myphpadmin
+
+## HTML, CSS, JS, PHP, MySQL 
