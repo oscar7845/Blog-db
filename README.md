@@ -1,12 +1,7 @@
 # Blog design using PHP XAMPP phpmyadmin MySQL
 
 ## A fully functional project written in PHP designed to offer content (blog post) about a topic which are posted by the users.
-Languages used:
-- PHP
-- MySQL
-- HTML
-- CSS
-- JS
+Languages used: - PHP - MySQL - HTML - CSS - JS
 
 Every part of this project is sample code which shows how to do the folllowing:
 
