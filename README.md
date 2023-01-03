@@ -1,6 +1,6 @@
-# Blog design using PHP XAMPP phpmyadmin
+# Designed using PHP XAMPP phpmyadmin
 
-## A fully functional project written in PHP designed to offer content (blog post) about a topic which are posted by the users.
+## A fully functional project written in PHP designed to offer content (post) about a topic.  Evey post is made by the users.
 Languages used: PHP, MySQL, html, css, and JavaScript
 
 
