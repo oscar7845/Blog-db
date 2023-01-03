@@ -1,7 +1,7 @@
 # Blog design using PHP XAMPP phpmyadmin MySQL
 
 ## A fully functional project written in PHP designed to offer content (blog post) about a topic which are posted by the users.
-### Languages used:
+Languages used:
 - PHP
 - MySQL
 - HTML
@@ -26,5 +26,4 @@ Every part of this project is sample code which shows how to do the folllowing:
 2. npm i (to install all packages)
 3. run: npm start or npm run dev
 
-Useful documentation: https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
-Vercel: https://vercel.com/
+Useful documentation: https://www.apachefriends.org/it/index.html
