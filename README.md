@@ -19,7 +19,7 @@ Every part of this project is sample code which shows how to do the folllowing:
 
 ## How you can install this project and test it
 1. clone this project
-2. install xampp
+2. install and configure xampp
 3. launch on local server
 
 Useful documentation: https://www.apachefriends.org/it/index.html
