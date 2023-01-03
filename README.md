@@ -12,7 +12,7 @@ Every part of this project is sample code which shows how to do the folllowing:
 * filter posts by category
 * search for a particular post using the searchbar
 
-To test each functionality, several test accounts and posts were created (with random content) belonging to different categories. If the user is admin, he has access to various additional features such as have their post appear at the top of the page (featured post), create and manage users, and create and manage categories. 
+To test each functionality, several test accounts were added and different posts were created (with random content) belonging to different categories. If the user is admin, he has access to various additional features such as have their post appear at the top of the page (featured post), create and manage users, and create and manage categories. 
 
 ## Check out each feature here 
 
