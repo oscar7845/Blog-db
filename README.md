@@ -3,7 +3,6 @@
 ## A fully functional project written in PHP designed to share content (post) about a topic.  Evey post is made by the users.
 Languages used: PHP, MySQL, html, css, and JavaScript
 
-
 Every part of this project is sample code which shows how to do the folllowing:
 
 * create a custom webapp with PHP
@@ -12,6 +11,8 @@ Every part of this project is sample code which shows how to do the folllowing:
 * navigate through the different posts created by registered users
 * filter posts by category
 * search for a particular post using the searchbar
+
+To test each functionality, several test accounts and posts were created (with random content) belonging to different categories. If the user is admin, he has access to various additional features such as have their post appear at the top of the page (featured post), create and manage users, and create and manage categories. 
 
 ## Check out each feature here 
 
