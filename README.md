@@ -8,6 +8,7 @@ Every part of this project is sample code which shows how to do the folllowing:
 
 * create a custom webapp with PHP
 * register or login with an existing acccount
+* create a post 
 * navigate through the different posts created by registered users
 * filter posts by category
 * search for a particular post using the searchbar
